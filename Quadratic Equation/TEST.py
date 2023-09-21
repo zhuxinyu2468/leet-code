@@ -11,5 +11,5 @@ def find_roots(a, b, c):
     return (-b + sqrtval) / (2 * a), (-b - sqrtval) / (2 * a)
 
 
-print(find_roots(1, 2, 1));
-print(find_roots(2, 10, 8));
+print(find_roots(1, 2, 1))
+print(find_roots(2, 10, 8))

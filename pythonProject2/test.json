@@ -1,5 +1,0 @@
-{"type": "rectangle", "width": 5, "height": "five"}
-{"type": "rectangle", "width": 5, "height": 5}
-{"type": "rectangle", "width": 5, "height": 10.5}
-{"type": "triangle", "height": 3, "base": 2}
-{"type": "circle", "radius": 4}

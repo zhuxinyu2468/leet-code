@@ -1,0 +1,14 @@
+F:\leetcode\c#\2-AddTwoNumbers\bin\Debug\net8.0\2-AddTwoNumbers.exe
+F:\leetcode\c#\2-AddTwoNumbers\bin\Debug\net8.0\2-AddTwoNumbers.deps.json
+F:\leetcode\c#\2-AddTwoNumbers\bin\Debug\net8.0\2-AddTwoNumbers.runtimeconfig.json
+F:\leetcode\c#\2-AddTwoNumbers\bin\Debug\net8.0\2-AddTwoNumbers.dll
+F:\leetcode\c#\2-AddTwoNumbers\bin\Debug\net8.0\2-AddTwoNumbers.pdb
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.AssemblyInfoInputs.cache
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.AssemblyInfo.cs
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.csproj.CoreCompileInputs.cache
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.dll
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\refint\2-AddTwoNumbers.dll
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.pdb
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\2-AddTwoNumbers.genruntimeconfig.cache
+F:\leetcode\c#\2-AddTwoNumbers\obj\Debug\net8.0\ref\2-AddTwoNumbers.dll

@@ -1,0 +1,14 @@
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.GeneratedMSBuildEditorConfig.editorconfig
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.AssemblyInfoInputs.cache
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.AssemblyInfo.cs
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.csproj.CoreCompileInputs.cache
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\bin\Debug\net8.0\1805-NumberOfIntegerInString.exe
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\bin\Debug\net8.0\1805-NumberOfIntegerInString.deps.json
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\bin\Debug\net8.0\1805-NumberOfIntegerInString.runtimeconfig.json
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\bin\Debug\net8.0\1805-NumberOfIntegerInString.dll
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\bin\Debug\net8.0\1805-NumberOfIntegerInString.pdb
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.dll
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\refint\1805-NumberOfIntegerInString.dll
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.pdb
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\1805-NumberOfIntegerInString.genruntimeconfig.cache
+F:\leetcode\c#\1805-NumberOfIntegerInString\1805-NumberOfIntegerInString\obj\Debug\net8.0\ref\1805-NumberOfIntegerInString.dll

@@ -1,0 +1,14 @@
+F:\leetcode\c#\20-ValidParenthese\bin\Debug\net8.0\20-ValidParenthese.exe
+F:\leetcode\c#\20-ValidParenthese\bin\Debug\net8.0\20-ValidParenthese.deps.json
+F:\leetcode\c#\20-ValidParenthese\bin\Debug\net8.0\20-ValidParenthese.runtimeconfig.json
+F:\leetcode\c#\20-ValidParenthese\bin\Debug\net8.0\20-ValidParenthese.dll
+F:\leetcode\c#\20-ValidParenthese\bin\Debug\net8.0\20-ValidParenthese.pdb
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.GeneratedMSBuildEditorConfig.editorconfig
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.AssemblyInfoInputs.cache
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.AssemblyInfo.cs
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.csproj.CoreCompileInputs.cache
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.dll
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\refint\20-ValidParenthese.dll
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.pdb
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\20-ValidParenthese.genruntimeconfig.cache
+F:\leetcode\c#\20-ValidParenthese\obj\Debug\net8.0\ref\20-ValidParenthese.dll

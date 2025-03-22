@@ -1,0 +1,14 @@
+F:\leetcode\c#\FNZTest.cs\bin\Debug\net8.0\FNZTest.cs.exe
+F:\leetcode\c#\FNZTest.cs\bin\Debug\net8.0\FNZTest.cs.deps.json
+F:\leetcode\c#\FNZTest.cs\bin\Debug\net8.0\FNZTest.cs.runtimeconfig.json
+F:\leetcode\c#\FNZTest.cs\bin\Debug\net8.0\FNZTest.cs.dll
+F:\leetcode\c#\FNZTest.cs\bin\Debug\net8.0\FNZTest.cs.pdb
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.GeneratedMSBuildEditorConfig.editorconfig
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.AssemblyInfoInputs.cache
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.AssemblyInfo.cs
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.csproj.CoreCompileInputs.cache
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.dll
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\refint\FNZTest.cs.dll
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.pdb
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\FNZTest.cs.genruntimeconfig.cache
+F:\leetcode\c#\FNZTest.cs\obj\Debug\net8.0\ref\FNZTest.cs.dll

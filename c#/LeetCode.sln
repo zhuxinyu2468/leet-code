@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67-AddBinary", "67-AddBinar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543-DiameterOfBinaryTree", "543-DiameterOfBinaryTree\543-DiameterOfBinaryTree.csproj", "{AE46C858-0C9C-434C-96F0-A41BC32650F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217-ContainsDuplicate", "217-ContainsDuplicate\217-ContainsDuplicate.csproj", "{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{AE46C858-0C9C-434C-96F0-A41BC32650F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE46C858-0C9C-434C-96F0-A41BC32650F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE46C858-0C9C-434C-96F0-A41BC32650F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

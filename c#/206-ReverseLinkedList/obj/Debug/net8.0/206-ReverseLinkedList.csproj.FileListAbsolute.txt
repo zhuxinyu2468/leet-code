@@ -1,0 +1,15 @@
+F:\leetcode\python\c#\206-ReverseLinkedList\bin\Debug\net8.0\206-ReverseLinkedList.exe
+F:\leetcode\python\c#\206-ReverseLinkedList\bin\Debug\net8.0\206-ReverseLinkedList.deps.json
+F:\leetcode\python\c#\206-ReverseLinkedList\bin\Debug\net8.0\206-ReverseLinkedList.runtimeconfig.json
+F:\leetcode\python\c#\206-ReverseLinkedList\bin\Debug\net8.0\206-ReverseLinkedList.dll
+F:\leetcode\python\c#\206-ReverseLinkedList\bin\Debug\net8.0\206-ReverseLinkedList.pdb
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.AssemblyInfoInputs.cache
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.AssemblyInfo.cs
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.csproj.CoreCompileInputs.cache
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.sourcelink.json
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.dll
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\refint\206-ReverseLinkedList.dll
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.pdb
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\206-ReverseLinkedList.genruntimeconfig.cache
+F:\leetcode\python\c#\206-ReverseLinkedList\obj\Debug\net8.0\ref\206-ReverseLinkedList.dll

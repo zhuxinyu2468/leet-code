@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543-DiameterOfBinaryTree", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217-ContainsDuplicate", "217-ContainsDuplicate\217-ContainsDuplicate.csproj", "{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53-MaxSubArray", "53-MaxSubArray\53-MaxSubArray.csproj", "{E9A25E73-D46B-4E4C-BE72-03790D199A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A9F542-F5EF-4B7E-92CD-B4B3AF60DBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

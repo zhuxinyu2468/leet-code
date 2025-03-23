@@ -5,14 +5,6 @@ public class Solution
 {
     public static int NumDifferentIntegers(string word)
     {
-/*        string digitWord = Regex.Replace(word, "[a-zA-Z]", " ");
-        string[] digitWordArray = digitWord.Split(' ',StringSplitOptions.RemoveEmptyEntries);
-        HashSet<int> result = new HashSet<int>();
-        for (int i = 0; i < digitWordArray.Length; i++)
-        {
-            result.Add(int.Parse(digitWordArray[i]));
-        }*/
-
         HashSet<string> resultWords = new HashSet<string>();
         for (int i = 0; i < word.Length; i++)
         {

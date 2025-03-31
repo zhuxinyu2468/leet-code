@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217-ContainsDuplicate", "21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53-MaxSubArray", "53-MaxSubArray\53-MaxSubArray.csproj", "{E9A25E73-D46B-4E4C-BE72-03790D199A59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57-InsertInterval", "InsertInterval\57-InsertInterval.csproj", "{15A55224-8DE9-45D8-87F8-71CC2DDE1AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9A25E73-D46B-4E4C-BE72-03790D199A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A55224-8DE9-45D8-87F8-71CC2DDE1AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A55224-8DE9-45D8-87F8-71CC2DDE1AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A55224-8DE9-45D8-87F8-71CC2DDE1AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A55224-8DE9-45D8-87F8-71CC2DDE1AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

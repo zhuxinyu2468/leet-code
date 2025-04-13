@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57-InsertInterval", "Insert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226-InvertBinaryTree", "226-InvertBinaryTree\226-InvertBinaryTree.csproj", "{528FB361-6DEA-4DDA-8E63-CCA11FB242EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235-LowestCommonAncestor", "235-LowestCommonAncestor\235-LowestCommonAncestor.csproj", "{74F64C5F-DC76-450B-AD11-E0086236A688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{528FB361-6DEA-4DDA-8E63-CCA11FB242EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528FB361-6DEA-4DDA-8E63-CCA11FB242EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{528FB361-6DEA-4DDA-8E63-CCA11FB242EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F64C5F-DC76-450B-AD11-E0086236A688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F64C5F-DC76-450B-AD11-E0086236A688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F64C5F-DC76-450B-AD11-E0086236A688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F64C5F-DC76-450B-AD11-E0086236A688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
